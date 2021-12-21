@@ -1,0 +1,26 @@
+h1{
+    color: rgb(219, 200, 200) 8px double;
+    text-align: center;
+}
+
+html{
+    background-image: url(111.jpg);
+    background-size: cover;
+}
+img{
+    width: 250px;
+    margin: 2%;
+    height: 170px;
+    border: rgb(219, 200, 200) 8px double;
+    border-radius: 30px;
+   transition: 400ms;
+}
+img:hover{
+    width: 220px;
+    margin: 2%;
+    height: 220px;
+    border: rgb(219, 200, 200) 8px double;
+    border-radius: 100px 30px 100px 30px;
+   transition: 400ms;
+}
+
